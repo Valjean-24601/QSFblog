@@ -16,6 +16,8 @@ paginate: 10
 
 encoding: UTF-8
 
+timezone: Asia/Shanghai
+
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
 # google_analytics: 
