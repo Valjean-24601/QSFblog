@@ -1,0 +1,41 @@
+title: 千手佛论道   
+
+description: 一天一苹果，健康远离我   
+
+author: Valjean   
+
+email: l**********.com
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 10
+
+encoding: UTF-8
+
+timezone: Asia/Shanghai
+# Uncomment the below line and set the tracking ID for enabling Google Analytics
+# 
+# google_analytics: 
+
+# Uncomment the below lines and set the Disqus shortname for enabling Disqus
+# 
+# disqus:
+
+# Jekyll
+# ======
+exclude:
+  - scripts/
+  - README.md
+  - jekyll-theme-hamilton.gemspec
+
+# Jekyll SEO Tag (Optional)
+# =========================
+social:
+  name: Valjean
+  links:
+google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+lang: en
